@@ -73,7 +73,7 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://VegetaMusic:Vegeta@cluster0.dohyl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
