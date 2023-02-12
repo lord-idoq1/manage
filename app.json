@@ -93,7 +93,7 @@
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": "-xyz"
+         "value": "SNQTVJDIAPVM"
      },
       "OPENWEATHERMAP_ID": {
         "description": "Get your own API from https://api.openweathermap.org/data/2.5/weather",
